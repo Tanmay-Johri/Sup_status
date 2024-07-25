@@ -4,7 +4,7 @@ Well, now you do.
 Update your status in real-time for your friends to see!
 
 ## Playstore Listing:
-!["listing"](Tanmay-Johri/Sup_status/media/sup_listing.jpg)
+!["listing"](https://github.com/Tanmay-Johri/Sup_status/blob/main/media/sup_listing.jpg)
 
 The closed testing version is out. Help us build a great app!
 E-mail us at studiosseasoned@gmail.com to enroll.
